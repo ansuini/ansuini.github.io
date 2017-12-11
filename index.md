@@ -15,6 +15,4 @@ is regularized with a sparsity term.
 
 
 <img src="/figs/decision_images/best_crop.png" alt="Drawing" style="width: 500px;"/>
-//![Decision Image Example](/figs/decision_images/best_crop.png)
-
-
+<!--- ![Decision Image Example](/figs/decision_images/best_crop.png) -->
