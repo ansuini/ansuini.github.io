@@ -14,6 +14,6 @@ of the model is high (number of pixels + bias term) the model
 is regularized with a sparsity term.
 
 
-![Decision Image Example](figs/decision_images/best_crop.png)
+![Decision Image Example](/figs/decision_images/best_crop.png)
 
 
