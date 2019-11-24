@@ -6,7 +6,7 @@
 
 [Intrinsic Dimension DNNs](https://github.com/ansuini/IntrinsicDimDeep)
 
-<img src="/figs/wrap_up.png" alt="Drawing" style="width: 500px;"/>
+<img src="/figs/intrinsic_dimension/wrap_up.png" alt="Drawing" style="width: 500px;"/>
 
 <!---
 [Decision Images](https://github.com/ansuini/sparse_logreg)
