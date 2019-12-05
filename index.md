@@ -4,13 +4,19 @@
 
 ### Intrinsic Dimension of Data Representations in Deep Networks
 
+Deep neural networks transform their inputs across multiple layers.<br/>
+Here we study the intrinsic dimensionality (ID) of data-representations,<br/>
+i.e. the minimal number of parameters needed to describe a representation.<br/>
 
-What happens to the data when it goes into a deep neural network? 
+We estimate ID in multiple CNNs with the [TWO-NN](https://www.nature.com/articles/s41598-017-11873-y) algorithm<br/>
+and find that<br/>
 
-We focused on one particular aspect: the *intrinsic dimensionality* of data representations
-inside convolutional networks.
+- the ID is much lower than the number of units (ED, embedding dimensions)
+- the ID along the layers has a typical “hunchback” shape
+- in the last hidden layer the ID strongly predicts performance
+- even in the last hidden layer, representations are curved.
 
-Look inside our [code and tutorials](https://github.com/ansuini/IntrinsicDimDeep) for a brief
-description or at our [**NeurIPS 2019** paper](https://arxiv.org/abs/1905.12784) for more details.
+Look inside [the repo](https://github.com/ansuini/IntrinsicDimDeep) for an outline of our work, extra materials (video, poster) and the code.<br/> 
+Full details are in our [**NeurIPS 2019** paper](https://arxiv.org/abs/1905.12784), hope you enjoy it!
 
 <img src="/figs/intrinsic_dimension/wrap_up_no_letters.png" alt="Drawing" style="width: 600px;"/>
