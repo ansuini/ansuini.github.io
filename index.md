@@ -5,7 +5,7 @@
 ### Intrinsic Dimension of Data Representations in Deep Networks
 
 Deep neural networks transform their inputs across multiple layers.<br/>
-Here we study the intrinsic dimensionality (ID) of data-representations,<br/>
+In this Project we studied the intrinsic dimensionality (ID) of data-representations,<br/>
 i.e. the minimal number of parameters needed to describe a representation.<br/>
 
 We estimate ID in multiple CNNs with the [TWO-NN](https://www.nature.com/articles/s41598-017-11873-y) algorithm<br/>
