@@ -4,8 +4,6 @@
 
 ### Intrinsic Dimension of Data Representations in Deep Networks
 
-<img src="/figs/intrinsic_dimension/NIPS_logo_small.png" alt="Drawing" style="width: 200px;"/>
-
 Deep neural networks transform their inputs across multiple layers.<br/>
 In this Project we studied the intrinsic dimensionality (ID) of data-representations,<br/>
 i.e. the minimal number of parameters needed to describe a representation.<br/>
@@ -19,6 +17,6 @@ and find that<br/>
 - even in the last hidden layer, representations are curved.
 
 Look inside [**the Repository**](https://github.com/ansuini/IntrinsicDimDeep) for an outline of our work, extra materials (long video, poster) and the code.<br/> 
-Full details are in our [**paper**](https://arxiv.org/abs/1905.12784).
+Full details are in our [**NeurIPS 2019 paper**](https://arxiv.org/abs/1905.12784)
 
-<img src="/figs/intrinsic_dimension/wrap_up_no_letters.png" alt="Drawing" style="width: 600px;"/>
+<img src="/figs/intrinsic_dimension/wrap_up_no_letters.png" alt="Drawing" style="width: 400px;"/>
