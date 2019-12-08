@@ -4,7 +4,7 @@
 
 ### Intrinsic Dimension of Data Representations in Deep Networks
 
-<img src="/figs/intrinsic_dimension/NIPS_logo.png" alt="Drawing" style="width: 100px;"/>
+<img src="/figs/intrinsic_dimension/NIPS_logo_small.png" alt="Drawing" style="width: 200px;"/>
 
 Deep neural networks transform their inputs across multiple layers.<br/>
 In this Project we studied the intrinsic dimensionality (ID) of data-representations,<br/>
