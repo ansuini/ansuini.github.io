@@ -26,7 +26,8 @@ Full details are in our [**NeurIPS 2019 paper**](https://arxiv.org/abs/1905.1278
 
 ### Accuracy of Rats in Discriminating Visual Objects Is Explained by the Complexity of Their Perceptual Strategy
 
-<img src="/figs/decision_images/summary.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="/figs/decision_images/summary.jpg" alt="Drawing" style="width: 600px;"/>
+*Credits to [Marco Gigante](http://samba.sissa.it/users/marco-gigante) for his beautiful drawing.*
 
 In this Project we studied the perceptual strategies of rats involved in
 visual discrimination tasks.
